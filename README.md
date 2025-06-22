@@ -1,7 +1,3 @@
-### Template 1: The Professional & Direct
-
-This is clean, scannable, and packed with keywords. It's perfect for quickly communicating competence to a busy hiring manager.
-
 > ## Uniswap V3: A Deep-Dive Implementation
 >
 > This repository contains a from-scratch implementation of the core smart contracts for the Uniswap V3 protocol, built in Solidity and tested with Foundry.
